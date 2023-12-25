@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a3hHiEGf3ASrE3rMqkf4/9d3Q2ImwoeamHyBNEz3pIGKLB01oSfIJF1WSEwmAEWqtuqXvQ8SkT+uabM+nY69kA==",
+  "dgSpecHash": "+CdqxQAB/flHIw6+Zai2mFCyLB1BgdnHYRrdraW6XPZGVi7F3yPhhnpPEtds3u2tb8QgIM9SpvnLkS0JdbY6xw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\acer\\Desktop\\practic(db , realitons)\\proniaBackEnd\\proniaBackEnd\\proniaBackEnd.csproj",
+  "projectFilePath": "C:\\Users\\acer\\Desktop\\proniaBackEnd\\proniaBackEnd\\proniaBackEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acer\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\acer\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

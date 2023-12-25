@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using proniaBackEnd.DAL;
 
@@ -10,9 +11,10 @@ using proniaBackEnd.DAL;
 namespace proniaBackEnd.Migrations
 {
     [DbContext(typeof(ProniaDbContext))]
-    partial class ProniaDbContextModelSnapshot : ModelSnapshot
+    [Migration("20231225060821_CreatedCategoryAndPlantTables")]
+    partial class CreatedCategoryAndPlantTables
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

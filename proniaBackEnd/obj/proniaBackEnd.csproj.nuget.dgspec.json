@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acer\\Desktop\\practic(db , realitons)\\proniaBackEnd\\proniaBackEnd\\proniaBackEnd.csproj": {}
+    "C:\\Users\\acer\\Desktop\\proniaBackEnd\\proniaBackEnd\\proniaBackEnd.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acer\\Desktop\\practic(db , realitons)\\proniaBackEnd\\proniaBackEnd\\proniaBackEnd.csproj": {
+    "C:\\Users\\acer\\Desktop\\proniaBackEnd\\proniaBackEnd\\proniaBackEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acer\\Desktop\\practic(db , realitons)\\proniaBackEnd\\proniaBackEnd\\proniaBackEnd.csproj",
+        "projectUniqueName": "C:\\Users\\acer\\Desktop\\proniaBackEnd\\proniaBackEnd\\proniaBackEnd.csproj",
         "projectName": "proniaBackEnd",
-        "projectPath": "C:\\Users\\acer\\Desktop\\practic(db , realitons)\\proniaBackEnd\\proniaBackEnd\\proniaBackEnd.csproj",
+        "projectPath": "C:\\Users\\acer\\Desktop\\proniaBackEnd\\proniaBackEnd\\proniaBackEnd.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acer\\Desktop\\practic(db , realitons)\\proniaBackEnd\\proniaBackEnd\\obj\\",
+        "outputPath": "C:\\Users\\acer\\Desktop\\proniaBackEnd\\proniaBackEnd\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
