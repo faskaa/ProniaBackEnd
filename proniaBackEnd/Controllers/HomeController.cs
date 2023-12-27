@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using proniaBackEnd.DAL;
 using proniaBackEnd.Entities;
+using proniaBackEnd.ViewModels;
 
 namespace proniaBackEnd.Controllers
 {
@@ -15,7 +16,13 @@ namespace proniaBackEnd.Controllers
         public IActionResult Index()
         {
 
-            IEnumerable<Slider> model = _context.Sliders.AsEnumerable();
+            HomeVM model = new HomeVM
+            {
+                
+                Sliders = _context.Sliders.ToList(),
+                Plants = _context.Plants.ToList(),
+
+            };
             return View(model);
         }
     }

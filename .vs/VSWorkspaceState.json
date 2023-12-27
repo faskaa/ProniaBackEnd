@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\proniaBackEnd",
+    "\\proniaBackEnd\\Controllers",
+    "\\proniaBackEnd\\DAL",
+    "\\proniaBackEnd\\Entities",
+    "\\proniaBackEnd\\ViewModels",
+    "\\proniaBackEnd\\Views",
+    "\\proniaBackEnd\\Views\\Home"
   ],
   "SelectedNode": "\\proniaBackEnd.sln",
   "PreviewInSolutionExplorer": false
