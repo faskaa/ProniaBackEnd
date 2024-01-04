@@ -154,11 +154,11 @@
                                     <div class="product-img">
                                         <a href="shop.html">
                                             <img class="primary-img"
-                                                 src="~/assets/images/website-images//1-1-270x300.jpg"
-                                                 alt="Product Images" />
+                                                 src="~/assets/images/website-images//@plant.PlantImages.FirstOrDefault(p=>p.IsMain == true)?.Path"
+                                                 alt="Product Images problem" />
                                             <img class="secondary-img"
-                                                 src="~/assets/images/website-images//1-2-270x300.jpg"
-                                                 alt="Product Images" />
+                                                 src="~/assets/images/website-images//@plant.PlantImages.FirstOrDefault(p=>p.IsMain == null)?.Path"
+                                                 alt="Product Images hover problem" />
                                         </a>
                                         <div class="product-add-action">
                                             <ul>

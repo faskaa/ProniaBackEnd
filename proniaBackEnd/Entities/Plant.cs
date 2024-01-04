@@ -12,5 +12,7 @@
 
         public ICollection<PlantCategory> PlantCategories { get; set; }
         public ICollection<PlantImage>  PlantImages { get; set; }
+        public ICollection<PlantInformation> PlantInformations { get; set; }
+
     }
 }
