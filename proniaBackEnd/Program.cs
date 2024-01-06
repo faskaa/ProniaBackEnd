@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using proniaBackEnd.DAL;
+using proniaBackEnd.Services;
 
 namespace proniaBackEnd
 {
@@ -13,6 +14,8 @@ namespace proniaBackEnd
             {
                 opt.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
             });
+            builder.Services.AddHttpContextAccessor();
+            builder.Services.AddScoped<LayoutService>();
             var app = builder.Build();
 
                 

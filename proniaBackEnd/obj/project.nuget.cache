@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+CdqxQAB/flHIw6+Zai2mFCyLB1BgdnHYRrdraW6XPZGVi7F3yPhhnpPEtds3u2tb8QgIM9SpvnLkS0JdbY6xw==",
+  "dgSpecHash": "tcqlOwUX/mbpRTnIFmitFdDQmB7PpQ4Y76UHmJbpNCiqS8w1s+uOB0s4P777H79RZqJJlLdNh3oNX9EIrNUl3Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\acer\\Desktop\\proniaBackEnd\\proniaBackEnd\\proniaBackEnd.csproj",
   "expectedPackageFiles": [
@@ -113,7 +113,7 @@
     "C:\\Users\\acer\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\acer\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\acer\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
-    "C:\\Users\\acer\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\acer\\.nuget\\packages\\nuget.common\\6.6.1\\nuget.common.6.6.1.nupkg.sha512",
     "C:\\Users\\acer\\.nuget\\packages\\nuget.configuration\\6.6.1\\nuget.configuration.6.6.1.nupkg.sha512",
     "C:\\Users\\acer\\.nuget\\packages\\nuget.dependencyresolver.core\\6.6.1\\nuget.dependencyresolver.core.6.6.1.nupkg.sha512",

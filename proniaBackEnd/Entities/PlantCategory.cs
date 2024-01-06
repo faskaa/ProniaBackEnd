@@ -10,5 +10,10 @@ namespace proniaBackEnd.Entities
 
         public Plant Plant { get; set; }
         public Category Category { get; set; }
+
+        public override string ToString()
+        {
+            return Category.Name;   
+        }
     }
 }
